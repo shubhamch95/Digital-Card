@@ -3,7 +3,7 @@
 A modern, interactive digital business card showcasing my professional profile, skills, and projects.
 
 ## 🚀 Live Demo
-[View Live Card](https://your-username.github.io/digital-card)
+https://shubhamchprofile.netlify.app/
 
 ## ✨ Features
 - **Responsive Design** - Works on all devices
@@ -33,7 +33,8 @@ git clone https://github.com/your-username/digital-card.git
 2. Open `index.html` in your browser
 
 ## 📱 Screenshots
-<img width="430" height="514" alt="image" src="https://github.com/user-attachments/assets/e6f2fa5c-4fbb-416e-a4d6-344a4109e860" />
+<img width="424" height="505" alt="image" src="https://github.com/user-attachments/assets/ce3c73a7-a311-431f-a889-6fda062b074c" />
+
 
 
 ## 📞 Contact
